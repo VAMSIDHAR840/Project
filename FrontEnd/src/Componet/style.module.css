@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+}
+.link1{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    display: inline-block;
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+    text-align: center;
+    transform: translateY(150px);
+    margin-left:600px ;
+}
+.link1:hover{
+    background-color: rgb(160, 237, 7);
+    color: black;
+    display: inline-block;
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+}
+.link2{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    display: inline-block;
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+    text-align: center;
+    transform: translateY(150px);
+    margin-left:600px ;
+}
+.link2:hover{
+    background-color: rgb(160, 237, 7);
+    color: black;
+    display: inline-block;
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+}
+.link3{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    display: inline-block;
+    height: 30px;
+    width: 140px;
+    border-radius: 10px;
+    text-align: center;
+margin-left: 400px;
+transform: translateY(300px);
+
+}
+.link3:hover{
+    background-color: rgb(160, 237, 7);
+    color: black;
+    display: inline-block;
+    height: 30px;
+    width: 140px;
+    border-radius: 10px;
+}
+
+.link4{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    display: inline-block;
+    height: 30px;
+    width: 140px;
+    border-radius: 10px;
+    margin-left: 300px;
+transform: translateY(300px);
+}
+.link4:hover{
+    background-color: rgb(160, 237, 7);
+    color: black;
+    display: inline-block;
+    height: 30px;
+    width: 140px;
+    border-radius: 10px;
+}
+.btn1{
+    display: inline-block;
+    height: 30px;
+    width: 100px;
+    background-color: grey;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 18px;
+    border-radius: 10px;
+    transform: translate(270px);
+}
+.btn2{
+    display: inline-block;
+    height: 30px;
+    width: 100px;
+    background-color: grey;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 18px;
+    border-radius: 10px;
+    transform: translateY(70px );
+    margin-left: 270px;
+}
+form{
+    margin-left:500px;
+    transform: translateY(100px);
+    height: 200px;
+    width: 400px;
+    line-height: 1.7;
+    border: 2px solid black;
+}
+.back{
+ 
+    height: 100vh;
+    background-image: url(https://th.bing.com/th?id=OIP.QdYoFModrd38dR55v8720QHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2);
+    background-size: cover;
+    background-repeat: repeat;
+}
+.div1{
+    height: 100vh;
+    background-image: url(https://th.bing.com/th?id=OIP.FKsK9QqfnzvTNNvC3I5BOQHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2);
+    background-size: cover;
+    background-repeat: repeat;
+}
+.div2{
+    height: 100vh;
+    background-image: url(https://th.bing.com/th?id=OIP.m0R6zodOBREGljMNO0mIhQHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2);
+    background-size: cover;
+    background-repeat: repeat;
+}
